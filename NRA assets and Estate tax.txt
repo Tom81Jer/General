@@ -1,0 +1,71 @@
+
+Ultra Mobile order: UM297652
+
+Justia buy house without visiting US:
+https://answers.justia.com/question/2024/08/16/can-a-foreigner-buy-a-house-in-us-withou-1026768
+
+Justia Estate tax for Bank account and US bonds 
+https://answers.justia.com/question/2024/08/14/estate-tax-for-a-non-resident-alien-s-us-1026452
+
+Transfer by an NRA
+Treas. Reg.  §25.2511-3
+https://www.govinfo.gov/content/pkg/CFR-2012-title26-vol14/pdf/CFR-2012-title26-vol14-sec25-2511-3.pdf
+
+Treas. Reg. §25.2501
+https://www.govinfo.gov/content/pkg/CFR-2023-title26-vol16/pdf/CFR-2023-title26-vol16-sec25-2207A-2.pdf
+
+No gift tax for : US stocks, govt bonds, State/Muni bonds
+No Estate tax for : Bank deposits, Govt bonds, State/Muni bonds
+https://advisor.morganstanley.com/michelle.ward/documents/field/w/wa/ward-sofia-michelle/Taxation_of_Non_Resident_Aliens__NRAs_.pdf
+
+foreigners should gift stocks instead of bank transfer or real estate to avoid gift tax
+https://www.forbes.com/sites/virginialatorrejeker/2024/05/01/us-tax-savvy-gifting-by-foreigners-to-us-persons/
+
+
+US house owned by a foreigner, selling price is bet 300k and 1 million:
+------------------------------------------------------------------------
+  When it is sold :
+	- Buyer must withhold 15% of the selling price . 
+		withholding rate is 10% if buyer plans to live in the house.
+	- actual capital gains tax is 15% of the PROFIT (not selling price) 
+	- foreigner needs to claim refund of the difference : taxes withheld minus applicable capital gains tax
+
+  When foreigner dies:
+	- first $60k is tax free
+	- then estate tax starts at 20% for $10k and 37% for value over $500k
+
+  Gifting real estate by foreigner to a US citizen:
+	- First $18k is free
+	- then rate is same as for Estate Tax
+
+Living Revocable Trust	
+-----------------------
+  - all assets (bank account, real estate, family loan) can be part of trust. this avoids probate.
+  - Beneficiary can also be the Trustee who manages the trust, this makes the process simple
+  - upon grantor's death, trustee can pay off the family loan then distribute remaining assets to the beneficiary
+  - Any assets remaining after loan pay-off are subject to estate tax, if total is more than $60k.
+
+	
+Foreigner's POD bank account:
+-----------------------------
+	- Lawyer on Justia said all US assets are subject to Estate tax, no exceptions
+	- but ChatGPT says : bank accounts are not subject to Estate tax because they are not considered US-situs
+	- Banks requires beneficiary to provide copy of IRS transfer Certificate to ensure all estate tax obligations are all set. Getting the cert 6 to 9 months
+    - 
+
+https://www.kplaw.com/wp-content/uploads/ttx037.pdf
+
+https://www.goldinglawyers.com/non-resident-gift-of-us-situs-property/
+
+https://www.goldinglawyers.com/u-s-tax-on-gifts-from-a-foreign-person-irs-gift-income-taxation/
+
+-----------------------------------------
+Estate tax for a non-resident alien's US bank account
+
+Hello - A non-resident alien (from Nepal) has $200k in US bank savings account and $300k in US Govt bonds. A US citizen daughter is named as a beneficiary (payable on death) on both assets. If the owner dies, is estate tax applicable to any of these assets provided there are no other claims?
+
+Would the bank/institution simply transfer the funds/bonds to the beneficiary after verifying the documents (beneficiary ID, address, owner's ID, death certificate, proof of relationship) or do they generally also require the beneficiary to provide a copy of IRS transfer certificate?
+
+Would the assets be considered income for the beneficiary requiring them to pay income tax on them?
+
+Thanks, 
